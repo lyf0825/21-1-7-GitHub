@@ -8,6 +8,8 @@ public class SpringbootThymeleaf01Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringbootThymeleaf01Application.class, args);
+		SpringApplication.run(SpringbootThymeleaf01Application.class, args);
+		
 	}
 
 }
