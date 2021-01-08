@@ -19,6 +19,7 @@ public class ThymeleafController {
         return "index";
     }
 
+
     @RequestMapping("/thymeleaf2.do")
     public ModelAndView thymeleaf2() {
         ModelAndView mv = new ModelAndView();
